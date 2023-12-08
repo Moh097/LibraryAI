@@ -1,0 +1,289 @@
+.index {
+  background-color: #0e2954;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .div {
+  background-color: #0e2954;
+  height: 847px;
+  position: relative;
+  width: 1456px;
+}
+
+.index .rectangle {
+  background-color: #d9d9d9;
+  border: 3px solid;
+  border-color: #f86302;
+  border-radius: 20px;
+  height: 40px;
+  left: 157px;
+  position: absolute;
+  top: 645px;
+  width: 128px;
+}
+
+.index .rectangle-2 {
+  background-color: #d9d9d9;
+  border: 3px solid;
+  border-color: #f86302;
+  border-radius: 20px;
+  height: 40px;
+  left: 1207px;
+  position: absolute;
+  top: 645px;
+  width: 128px;
+}
+
+.index .rectangle-3 {
+  background-color: #d9d9d9;
+  border: 3px solid;
+  border-color: #f86302;
+  border-radius: 20px;
+  height: 40px;
+  left: 997px;
+  position: absolute;
+  top: 645px;
+  width: 128px;
+}
+
+.index .rectangle-4 {
+  background-color: #d9d9d9;
+  border: 3px solid;
+  border-color: #f86302;
+  border-radius: 20px;
+  height: 40px;
+  left: 787px;
+  position: absolute;
+  top: 645px;
+  width: 128px;
+}
+
+.index .rectangle-5 {
+  background-color: #d9d9d9;
+  border: 3px solid;
+  border-color: #f86302;
+  border-radius: 20px;
+  height: 40px;
+  left: 577px;
+  position: absolute;
+  top: 645px;
+  width: 128px;
+}
+
+.index .rectangle-6 {
+  background-color: #d9d9d9;
+  border: 3px solid;
+  border-color: #f86302;
+  border-radius: 20px;
+  height: 34px;
+  left: 370px;
+  position: absolute;
+  top: 648px;
+  width: 122px;
+}
+
+.index .text-wrapper {
+  color: #f86302;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 1220px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 203px;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.index .text-wrapper-2 {
+  color: #f86302;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 1011px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 203px;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.index .text-wrapper-3 {
+  color: #f86302;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 800px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 203px;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.index .text-wrapper-4 {
+  color: #f86302;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 590px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 203px;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.index .text-wrapper-5 {
+  color: #f86302;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 380px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 203px;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.index .text-wrapper-6 {
+  color: #f86302;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 170px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 203px;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.index .whatsapp-image {
+  height: 402px;
+  left: 130px;
+  object-fit: cover;
+  position: absolute;
+  top: 234px;
+  width: 178px;
+}
+
+.index .img {
+  height: 402px;
+  left: 550px;
+  object-fit: cover;
+  position: absolute;
+  top: 234px;
+  width: 178px;
+}
+
+.index .whatsapp-image-2 {
+  height: 402px;
+  left: 340px;
+  object-fit: cover;
+  position: absolute;
+  top: 234px;
+  width: 178px;
+}
+
+.index .whatsapp-image-3 {
+  height: 402px;
+  left: 760px;
+  object-fit: cover;
+  position: absolute;
+  top: 234px;
+  width: 178px;
+}
+
+.index .whatsapp-image-4 {
+  height: 402px;
+  left: 970px;
+  object-fit: cover;
+  position: absolute;
+  top: 234px;
+  width: 178px;
+}
+
+.index .whatsapp-image-5 {
+  height: 402px;
+  left: 1180px;
+  object-fit: cover;
+  position: absolute;
+  top: 234px;
+  width: 178px;
+}
+
+.index .overlap-group {
+  background-color: #d9d9d9;
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1456px;
+}
+
+.index .overlap {
+  background-image: url(https://cdn.animaapp.com/projects/6572e31b163d7a7791ee9861/releases/6572e371cd9388f80f786a26/img/20191008-28832-removebg-preview-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 94px;
+  left: 725px;
+  position: absolute;
+  top: 10px;
+  width: 213px;
+}
+
+.index .line {
+  height: 94px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.index .download-removebg {
+  height: 94px;
+  left: 510px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 204px;
+}
+
+.index .powered-by-hudai {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 900;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 774px;
+  width: 232px;
+}
+
+.index .span {
+  color: #ffeec6;
+}
+
+.index .text-wrapper-7 {
+  color: #f86302;
+}
